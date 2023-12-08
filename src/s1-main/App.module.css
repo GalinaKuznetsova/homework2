@@ -1,0 +1,14 @@
+.App {
+    --header_height: 60px;
+}
+
+.hw {
+min-width: 1280;
+width: 100%;
+padding: 24px;
+margin: 0 auto;
+}
+
+.hwTitle {
+
+}
